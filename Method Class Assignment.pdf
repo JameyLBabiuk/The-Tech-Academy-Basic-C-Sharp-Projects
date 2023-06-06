@@ -44,7 +44,6 @@ name
 ```
 
 Here's what's happening in the code:
-
 - We create a new class called `MathClass`. Inside this class, we define a
 method called `DoMath` that takes two integers as parameters (`num1` and
 `num2`).
